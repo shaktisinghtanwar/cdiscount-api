@@ -1,0 +1,9 @@
+C:\Users\Windows10\source\repos\GetPrinterInformation\CDiscountApiLib\bin\Debug\CDiscountApiLib.dll
+C:\Users\Windows10\source\repos\GetPrinterInformation\CDiscountApiLib\bin\Debug\CDiscountApiLib.pdb
+C:\Users\Windows10\source\repos\GetPrinterInformation\CDiscountApiLib\bin\Debug\RestSharp.dll
+C:\Users\Windows10\source\repos\GetPrinterInformation\CDiscountApiLib\bin\Debug\RestSharp.xml
+C:\Users\Windows10\source\repos\GetPrinterInformation\CDiscountApiLib\obj\Debug\CDiscountApiLib.csprojAssemblyReference.cache
+C:\Users\Windows10\source\repos\GetPrinterInformation\CDiscountApiLib\obj\Debug\CDiscountApiLib.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\GetPrinterInformation\CDiscountApiLib\obj\Debug\CDiscountApiLib.csproj.CopyComplete
+C:\Users\Windows10\source\repos\GetPrinterInformation\CDiscountApiLib\obj\Debug\CDiscountApiLib.dll
+C:\Users\Windows10\source\repos\GetPrinterInformation\CDiscountApiLib\obj\Debug\CDiscountApiLib.pdb
